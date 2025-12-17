@@ -1,0 +1,21 @@
+.card .titre-article, .span-background{
+    color: white;
+    position: absolute;
+    bottom: 20%;
+    letter-spacing: normal;
+    
+}
+
+.photo{
+    object-fit: fill;
+}
+
+
+.span-background{
+    background-color: rgb(3, 87, 87);
+    color: white;
+}
+
+@media only screen and (max-width: 1024px){
+    
+}

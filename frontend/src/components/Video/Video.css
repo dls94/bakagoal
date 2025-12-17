@@ -1,0 +1,51 @@
+.image-opacity{
+    height: 500px;
+    object-fit: cover;  
+}
+
+.icon-video{
+    position: absolute;
+    top: 3%;
+    left: 3%;
+    font-size: 30px;
+}
+
+.titre-video{
+    color: white;
+    position: absolute;
+    bottom: 25%;
+    font-weight: bolder;
+    letter-spacing: normal;
+}
+
+.span-video{
+    color: white;
+    position: absolute;
+    bottom: 10%;
+    letter-spacing: normal;
+    
+}
+
+@media only screen and (max-width: 1024px){
+    .image-opacity{
+        height: 300px;
+        width: auto;
+        object-fit: cover;  
+    }
+}
+
+@media only screen and (max-width: 768px){
+    .image-opacity{
+        height: 250px;
+        width: auto;
+        object-fit: cover;  
+    }
+}
+
+@media only screen and (max-width: 466px){
+    .image-opacity{
+        height: 300px;
+        width: auto;
+        object-fit: cover;  
+    }
+}

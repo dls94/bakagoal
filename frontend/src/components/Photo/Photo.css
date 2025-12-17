@@ -1,0 +1,44 @@
+.image-opacity{
+    height: 500px;
+    object-fit: cover;  
+}
+
+.titre-photo{
+    color: white;
+    position: absolute;
+    bottom: 25%;
+    font-weight: bolder;
+    letter-spacing: normal;
+}
+
+.span-photo{
+    color: white;
+    position: absolute;
+    bottom: 10%;
+    letter-spacing: normal;
+    
+}
+
+@media only screen and (max-width: 1024px){
+    .image-opacity{
+        height: 300px;
+        width: auto;
+        object-fit: cover;  
+    }
+}
+
+@media only screen and (max-width: 768px){
+    .image-opacity{
+        height: 250px;
+        width: auto;
+        object-fit: cover;  
+    }
+}
+
+@media only screen and (max-width: 466px){
+    .image-opacity{
+        height: 300px;
+        width: auto;
+        object-fit: cover;  
+    }
+}

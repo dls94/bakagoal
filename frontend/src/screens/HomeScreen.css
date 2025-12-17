@@ -1,0 +1,22 @@
+.image-texte{
+    position: relative;
+    bottom: 0;
+}
+
+
+@media only screen and (max-width: 466px){
+
+    .overflow{
+        overflow: auto;
+        white-space: nowrap;
+    }
+
+    .overflow-next-match{
+        
+        overflow-x: scroll;
+        position: relative;
+        flex-wrap: nowrap;
+        
+        
+    }
+}

@@ -1,0 +1,42 @@
+.match-photo{
+    opacity: 0.75;
+    height: 150px;
+}
+
+.match-footer{
+    height: 25px;
+    color:'white'; 
+    background-color: 'rgb(3, 87, 87';
+    position: relative;
+}
+
+.text-match{
+    display: flex;
+    position: absolute;
+    bottom: 0%;
+    letter-spacing: normal;
+}
+
+.logo-dom{
+    display: flex;
+    position: absolute;
+    bottom: 50%;
+    left: 15%;
+}
+
+.logo-ext{
+    display: flex;
+    position: absolute;
+    bottom: 50%;
+    right: 15%;
+}
+
+.logo-vs{
+    display: flex;
+    position: absolute;
+    bottom: 50%;
+    right: 50%;
+    background-color: dimgray;
+    border-radius: 50%;
+    color: white;
+}

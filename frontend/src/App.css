@@ -1,0 +1,51 @@
+
+.Footer{
+    background-color: darkslategrey;
+    padding-top: 1rem;
+    padding-bottom: 2.5rem;
+}
+
+.separator{
+    
+    border-top: 3.5px solid rgba(255,255,255,.55);
+    margin-top: 3.5rem;
+    margin-bottom: 3.5rem;
+}
+
+
+div.row{
+    color: dimgray ;
+}
+
+Header{
+    background-color: darkslategrey;
+}
+
+
+.photo{
+    height: 500px;
+
+}
+
+.photo-joueur{
+    height: 300px;
+    
+}
+
+
+
+i{
+    color : rgba(255,255,255,.55);
+}
+
+
+
+
+
+
+
+
+
+
+
+

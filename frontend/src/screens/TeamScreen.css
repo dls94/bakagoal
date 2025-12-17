@@ -1,0 +1,42 @@
+@media only screen and (max-width: 466px){
+
+    .box-row{
+        height: 85px;
+        width: 100%;
+        background-color: darkslategray;
+        
+    }
+
+    .photo-joueur{
+        padding: 0;
+        height: 80px;
+        width: 50px;
+        position: relative;
+        object-fit: cover;
+        
+    }
+
+    .number{
+        position: absolute;
+        right: 0;
+        margin-right: 10px;
+        text-align: center;
+        color: white;
+    }
+
+    .name{
+        position: absolute;
+        right: 0;
+        margin-right: 10px;
+        color: white;
+    }
+
+    .poste{
+        position: absolute;
+        right: 0;
+        margin-right: 10px;
+        color: white;
+        font-size: 0.70rem;
+    }
+
+}

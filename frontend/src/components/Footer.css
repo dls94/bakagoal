@@ -1,0 +1,7 @@
+.footer{
+    display: flex;
+    justify-content: center;
+    letter-spacing: normal;
+    position: static;
+    color: rgba(255,255,255,.55);
+}
